@@ -1,0 +1,4 @@
+# migabuilder.com loads these files from another domain; let it use them freely.
+/*
+  Access-Control-Allow-Origin: *
+  Cache-Control: public, max-age=86400

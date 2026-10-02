@@ -1,0 +1,11 @@
+// Cloudflare Worker that serves the videos and posters in this repository as
+// static files (videos.migabuilder.com). Static asset requests are free and
+// not metered; each file must stay under 25 MiB.
+{
+  "name": "migabuilder-videos",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": ".",
+    "not_found_handling": "none"
+  }
+}
