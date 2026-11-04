@@ -3,6 +3,7 @@
  "posted": [
   "3d-cartoon",
   "3d-game-forge",
+  "afford-forge",
   "alphabet-forge",
   "app-forge",
   "audio-forge",
@@ -36,6 +37,7 @@
   "index",
   "invoice-forge",
   "jam-forge",
+  "letter-forge",
   "logo-forge",
   "media-convert",
   "media-convert-forge",
@@ -68,6 +70,7 @@
   "text-compare",
   "utility-forge",
   "video-forge",
+  "visit-forge",
   "website-builder",
   "writing-forge"
  ]
